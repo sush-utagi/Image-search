@@ -13,25 +13,10 @@ To use the Image Search Web App, you will need to obtain your own Unsplash API k
    ```bash
    git clone https://github.com/your-username/image-search-app.git
    ```
+   
+3. **Insert API Key in the Script**: Open the `script.js` file in the root directory of the project. In the first line replace `YOUR_API_KEY` with your actual API key.
 
-3. **Set Up Environment Variables**: Create a `.env` file in the root directory of the project and add your Unsplash API key:
 
-   ```
-   REACT_APP_UNSPLASH_API_KEY=your_api_key_here
-   ```
-
-4. **Install Dependencies**: Install the required dependencies by running the following command:
-
-   ```bash
-   npm install
-   ```
-
-5. **Start the Development Server**: Start the development server by running:
-
-   ```bash
-   npm start
-   ```
-
-6. **Access the Web App**: Open your browser and navigate to `http://localhost:3000` to access the Image Search Web App. You can now search for high-quality images using the app.
+4. **Open the Web App**: Open the `index.html` file in a web browser to start using the Image Search Web App. You can now search for high-quality images using the app.
 
 Please ensure that you keep your API key secure and do not share it publicly.
