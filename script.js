@@ -1,4 +1,4 @@
-const access_key = "P_DtkEzlEUJV96d7DXg4QxFJsoJDoawkdG3gRHWO1yQ";
+const access_key = "YOUR_ACCESS_KEY";
 
 const form_element = document.querySelector("form");
 const search_input_element = document.getElementById("search-input");
